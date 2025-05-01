@@ -20,6 +20,7 @@ Once all libraries are installed, navigate to the folder containing the decision
 cd path/to/your/script 
 After that, run the Streamlit app using:
 streamlit run decision_tree_web_interface.py
+just paste this into your vscode terminal, it will open the steamlit app
 This will start a local server. After a few moments, you should see the following output in the terminal:
 
 You can now view your Streamlit app in your browser.
